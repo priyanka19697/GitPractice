@@ -1,2 +1,3 @@
 Hello Git
-Added a second line to git
+Added a second line to git 
+Updating read me with new information
